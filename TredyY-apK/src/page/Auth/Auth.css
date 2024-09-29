@@ -1,0 +1,12 @@
+.authContainer{
+    background-image:url("https://img.freepik.com/free-photo/panoramic-view-dubai-city-illuminated-neon-spectrum_23-2151305340.jpg");
+    height:100vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bgBlure{
+    backdrop-filter: blur(10px);
+}
